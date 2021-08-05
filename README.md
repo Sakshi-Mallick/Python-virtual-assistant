@@ -48,3 +48,9 @@ if Text to speech (pyttsx3) module is not working on windows 10 then install the
 python -m pip install pyttsx3==2.71
 
 (Run the above code in terminal. It will uninstall current version and then it installs the older version.)
+
+
+
+
+
+youtube link: https://youtu.be/S2D8AEofJHA
