@@ -11,18 +11,29 @@ in order to run this program we need to download few library
 
 
 pip install speech_recognition 
+
 pip install pyttsx3
+
 import datetime
+
 pip install wikipedia
+
 pip install webbrowser
+
 import os
+
 import time
+
 import subprocess
+
 pip install ecapture
+
 pip install wolframalpha
+
 import json
+
 import requests
+
 import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+
 pip install pyjokes
